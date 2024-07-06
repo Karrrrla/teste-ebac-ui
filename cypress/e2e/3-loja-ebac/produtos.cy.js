@@ -13,9 +13,7 @@ describe('Funcionalidade: Produtos', () => {
         //.eq(2)
         .contains('Ariel Roll Sleeve Sweatshirt')
         .click()
-
         cy.get('#tab-title-description > a').should('contain', 'Descrição')
-        
     });
 
 });
