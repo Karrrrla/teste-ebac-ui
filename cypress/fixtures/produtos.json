@@ -1,0 +1,22 @@
+[
+    {
+        "nomeProduto": "Celeste Sports Bra",
+        "tamanho":"XL",
+        "cor":"Yellow",
+        "quantidade": 2
+        },
+
+        {
+        "nomeProduto": "Tiberius Gym Tank",
+        "tamanho": "XL",
+         "cor":"Yellow",
+        "quantidade": 1
+         },
+
+        {
+        "nomeProduto": "Apollo Running Short",
+        "tamanho": "36",
+         "cor": "Black",
+         "quantidade": 2
+        }       
+]
